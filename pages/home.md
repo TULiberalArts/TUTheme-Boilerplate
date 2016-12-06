@@ -1,9 +1,10 @@
 ---
 layout: page
+title: Home
 ---
+<!-- UPDATED CONTENT HERE -->
 
 <!-- DO NOT EDIT THIS PAGE, THIS WILL BE CHANGED FROM UPSTREAM IN THE NEAR FUTURE -->
 
-<h1>Homepage!</h1>
 
-<p>Welcome to your new homepage. Content will be coming soon.</p>
+Welcome to your new homepage. Content will be coming soon.
