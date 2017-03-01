@@ -1,4 +1,5 @@
-- Chair:
+- 
+  Chair:
   Director:
   Undergraduate Chair:
   Graduate Chair:
