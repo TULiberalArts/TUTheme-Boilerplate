@@ -2,10 +2,11 @@
 # Program/Department Title
 title: Nuclear Energy
 # Subdirectory (with / at only at beginning)
-baseurl: /nuclearenergy
+baseurl: /nuclear-energy
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
-
+# url spits sitemap
+url: https://www.cla.temple.edu/nuclear-energy
 
 # Program Information
 # Short tagline for tweets (<100 characters)
