@@ -1,7 +1,7 @@
 ---
 title: Graduate
 permalink: "/graduate"
-layout: page
+layout: tla_page
 ---
 
 The world is increasingly globalized, with goods, services, people, and ideas traveling across borders more often, and more quickly, than ever before. Temple University and its College of Liberal Arts are also globalizing, offering students a wide array of majors in the social sciences, humanities, and area studies programs in Asian and Latin American studies.

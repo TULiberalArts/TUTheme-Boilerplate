@@ -1,7 +1,7 @@
 ---
 title: Resources
 permalink: "/resources"
-layout: page
+layout: tla_page
 ---
 
 ## Resources are here to help!
